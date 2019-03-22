@@ -1,4 +1,4 @@
-# Fictional MOBA Database management system
+# Fictional MOBA database management system and application
 Database management system and application program for a fictional MOBA similar to League of Legends by Riot Games
 
 ## Requirements
